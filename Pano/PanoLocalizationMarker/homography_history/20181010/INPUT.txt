@@ -1,0 +1,1 @@
+.\PanoLocalizationMarker.exe.lnk corner_6to3.xml corner_3to5.xml corner_5to2.xml corner_2to1.xml corner_4to63521.xml
