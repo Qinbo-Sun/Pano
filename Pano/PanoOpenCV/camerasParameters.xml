@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<camera_No_0>
+  <focal>4.3670868531799524e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.90145028e-01 1.28246084e-01 5.62646836e-02 -2.98104063e-02
+      5.85558593e-01 -8.10081601e-01 -1.36836067e-01 8.00421000e-01
+      5.83611071e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_0>
+<camera_No_1>
+  <focal>4.3295422011802802e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.98715639e-01 5.44926291e-03 5.03719673e-02 3.47260013e-02
+      6.50328457e-01 -7.58858919e-01 -3.68935391e-02 7.59633482e-01
+      6.49303973e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_1>
+<camera_No_2>
+  <focal>4.2885518803386449e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.99082208e-01 2.66140932e-03 4.27503847e-02 2.82805283e-02
+      7.08609700e-01 -7.05033600e-01 -3.21696997e-02 7.05595553e-01
+      7.07884133e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_2>
+<camera_No_3>
+  <focal>3.9908973752354091e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.96519864e-01 -6.56380355e-02 -5.13800345e-02 -2.76857615e-03
+      5.89987934e-01 -8.07407260e-01 8.33102465e-02 8.04739475e-01
+      5.87752879e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_3>
+<camera_No_4>
+  <focal>4.2749124080695628e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.98317659e-01 -2.49047857e-02 -5.23591973e-02 -2.36298591e-02
+      6.49886549e-01 -7.59663820e-01 5.29467799e-02 7.59623110e-01
+      6.48204684e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_4>
+<camera_No_5>
+  <focal>4.2988945527174856e+03</focal>
+  <aspect>1.</aspect>
+  <ppx>320.</ppx>
+  <ppy>240.</ppy>
+  <R type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>f</dt>
+    <data>
+      9.98326957e-01 -3.54920626e-02 -4.56478111e-02 -7.08212703e-03
+      7.08452523e-01 -7.05722868e-01 5.73868677e-02 7.04865396e-01
+      7.07015872e-01</data></R>
+  <t type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      0. 0. 0.</data></t></camera_No_5>
+<warped_image_scale>4.2937231445312500e+03</warped_image_scale>
+</opencv_storage>
