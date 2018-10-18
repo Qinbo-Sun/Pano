@@ -6,6 +6,7 @@
 /Pano/Pano_Larryu_paras/x64
 /Pano/*/x64
 /Pano/PanoOpenCV/data
+/Pano/*/data
 /Pano/.vs
 /Pano/x64
 /Pano/Pano/pch.cpp
